@@ -36,4 +36,4 @@ Whether it's unravelling data mysteries or crafting data-driven adventures, I'm 
 
 ## 📜 License
 
-This GitHub profile is licensed under the [Data Explorer License](LICENSE) - see the LICENSE file for details.
+This GitHub profile is licensed under the [Data Explorer License](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) - see the LICENSE file for details.
